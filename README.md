@@ -1,5 +1,4 @@
-# USB-C Charger PCB — Altium Designer  
-*(May 2025)*  
+# USB-C Charger PCB — Altium Designer   
 
 ## Introduction  
 This project delivers a **compact, two-layer portable-charger printed-circuit board** that accepts power through a USB-C connector, charges a single-cell Li-ion/Li-poly battery, and boosts the battery voltage to a regulated **5 V / 1.5 A** output.  
